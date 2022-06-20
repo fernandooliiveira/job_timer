@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524388345725",
+    "project_id": "go-job-timer",
+    "storage_bucket": "go-job-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524388345725:android:4b80ebb643aa55924f0e14",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524388345725-uc2mso4r7pd45pr10qng5r0s675v30g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6jH36HnFdFffk4Ql82H1H8t4jy2kGwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524388345725-uc2mso4r7pd45pr10qng5r0s675v30g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
